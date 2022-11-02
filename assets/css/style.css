@@ -37,8 +37,6 @@ html:target {
     float: left;
     width: 50.00%;
 }
-
-
 @media screen and (max-width: 500px) {
     .section {
         padding: 50px;
@@ -177,10 +175,10 @@ li a:hover {
     height: 130px;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 800px) {
     .rodape {
         float: left;
-        width: 100%;
+        width: 150%;
 
     }
 }
